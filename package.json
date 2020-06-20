@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/mohitdhimanskt/HackYourTemperature-I/issues"
   },
-  "homepage": "https://github.com/mohitdhimanskt/HackYourTemperature-I#readme"
+  "homepage": "https://github.com/mohitdhimanskt/HackYourTemperature-I#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4"
+  }
 }
